@@ -1,0 +1,61 @@
+
+.descripcion-mia{
+font-family:'Times New Roman', Times, serif;
+
+}
+
+.contacto, .nombre, h3{
+    color: pink;
+     text-decoration: underline;
+}
+
+.img-contacto img {
+    width: 13px;
+}
+
+.datos_principales{
+    width: 50%;
+    margin-right: 189px;
+
+}
+
+#foto_1{
+    height: 208px;
+    width: 131px;
+    padding: 36px;
+   
+}
+
+
+
+.contenedor-datos{
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;  
+    background-color: rgb(253, 243, 244);
+    margin-bottom: 24px;
+ }
+
+
+.contenedor-datos-personales{
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;  
+    
+    margin-left: 90px;
+   
+}
+
+.columna_2{
+    display: flex;
+    flex-direction: column;
+    border-left: 2px solid pink;
+    padding-left: 32px;
+    
+}
+
+.columna_1{
+   padding-right: 66px;
+}
